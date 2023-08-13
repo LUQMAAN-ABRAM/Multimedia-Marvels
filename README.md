@@ -74,6 +74,6 @@ Our proposal is based on a holistic understanding of student needs as highlighte
 
 ### Attachments:
 
-Survey Data Analysis (survey_results.pdf)
+Survey Data Analysis (survey_results.pdf)<br>
 Preliminary Design Sketches
 
