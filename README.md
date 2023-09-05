@@ -63,12 +63,7 @@ We аre а teаm of раssionаte innovаtors аnԁ аviԁ leаrners, ԁriven by
 
 Our primary user persona is a proactive University student, aged between 18-25, who is technologically savvy and frequently seeks online resources to complement their academic journey. They value interactivity, a sense of community, and resource diversity—from video tutorials and practice quizzes to peer mentoring. This student is not just looking for quick fixes but desires a comprehensive platform that aids in holistic academic growth and networking with peers.
 
- 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+ ![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/31209e5a-a7ab-45cb-878f-400d3160e4dd)
 
 
 **Persona Name:** Sibusiso Van der Merwe 
@@ -121,12 +116,9 @@ To gain a deeper understanding of the needs and preferences of our target audien
 
 ### Frequency of Seeking Academic Help Online
 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/959a5a10-8aba-429d-8147-bfccd5d8b728)
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
 
 
 The majority of respondents (78.2%) often or always seek academic help online. This indicates a pronounced reliance on digital platforms for academic support, and thus, there's a significant need for a well-structured, user-centric academic help website tailored to their requirements.
@@ -138,11 +130,8 @@ The majority of respondents (78.2%) often or always seek academic help online. T
 ### Desired Features in a Student Help Website
 
 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/1ddf8835-aa2d-4ae1-af2a-7b4f04048d60)
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
 
 
 The most sought-after features, as indicated by respondents, were:
@@ -162,10 +151,8 @@ The most sought-after features, as indicated by respondents, were:
 
 ### 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/64d1a829-4371-4e9d-86e3-203e06d4cb8d)
 
-
-![alt_text](images/image6.png "image_tooltip")
 
 
 Math (37.5%) and Programming/Computer Science (46.9%) emerged as the predominant areas where students seek help. This suggests that our platform should prioritize resources, mentors, and content related to these subjects to address the significant demand.
@@ -177,11 +164,9 @@ Math (37.5%) and Programming/Computer Science (46.9%) emerged as the predominant
 ### Importance of Interactivity
 
 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/869453b2-21b3-481c-92ea-b0b200cf8450)
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image7.png "image_tooltip")
 
 
 A significant 65.6% of respondents considered interactivity very important when using an academic help website. Interactivity enhances engagement, understanding, and retention, which should be central to our platform's design.
@@ -192,12 +177,8 @@ A significant 65.6% of respondents considered interactivity very important when 
 
 ### Preferred Design Elements for User-Friendly Experience
 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/927f79c5-3470-4125-87e7-c02716229f6e)
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
 
 
 **Design Preferences:**
@@ -215,11 +196,7 @@ A significant 65.6% of respondents considered interactivity very important when 
 ### Value of Student Collaboration Feature
 
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/25cea5cd-dc6f-4032-b746-2f9da878a3df)
 
 
 An overwhelming 84.4% found collaboration with other students valuable or extremely valuable, emphasizing the importance of incorporating collaborative tools and features.
@@ -231,11 +208,8 @@ An overwhelming 84.4% found collaboration with other students valuable or extrem
 ### Importance of Receiving Feedback
 
 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/7ebcadab-cf9a-4a33-8377-a1eac2f637ba)
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
 
 
 84.4% of respondents deemed receiving feedback on their progress or understanding as important. This suggests integrating features that provide immediate feedback, tracking progress, and adaptive recommendations.
@@ -247,11 +221,7 @@ An overwhelming 84.4% found collaboration with other students valuable or extrem
 ### Interest in Peer Mentorship
 
 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/01b5873c-44a2-442c-baab-87586a2ef41a)
 
 
 A significant 71.9% expressed interest in a peer mentorship program. This reflects the importance of peer learning, guidance, and the benefits of a structured mentorship system.
@@ -261,13 +231,8 @@ A significant 71.9% expressed interest in a peer mentorship program. This reflec
 
 
 ### Additional Comments & Suggestions
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/d7372167-b0d2-4a3b-9922-ac6dda0b6e20)
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
 
 
 Feedback emphasized the importance of a comprehensive resource repository, diverse tutorial types, and advanced tools like personalized study plans, virtual study rooms, time management tips, and career path exploration.
@@ -292,18 +257,10 @@ We undertook a comparative analysis of several established academic help website
 **Research on Coursera Website: A Comprehensive Evaluation**
 
 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/850055da-6b99-4c88-b887-1f0d2d903f77)
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
-
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/026b7a93-c99a-44a7-b8b3-c90577a692a0)
 
 **Introduction**
 
@@ -361,18 +318,9 @@ Coursera excels in a variety of areas such as user interface design, content qua
 
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/92aef416-fe7a-4e5b-b00c-024b61725a12)
 
-
-![alt_text](images/image15.png "image_tooltip")
-
-
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/f067f220-7eaa-4624-ab8b-0b81265012a0)
 
 
 
@@ -415,19 +363,12 @@ In conclusion, Khan Academy is a commendable online educational resource that li
 
 
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/cec4ee56-0b14-435a-bcb0-d486507636ef)
 
 
 
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
-
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/b3b644ee-0faf-451a-9f29-d1c009a1c4b4)
 
 
 
@@ -630,7 +571,16 @@ Upon landing on the site, a student can:
 
 
 ## Concept Sketches
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/d73182fd-c984-4944-8680-63fa8344f035)
 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/d20286e1-722c-4764-b9c4-4c4e6f3967ee)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/2266b4cc-e93d-48ca-8eb4-7b808dca5362)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/b3b6a4b0-4a8c-4e96-baa3-afa740194d9f)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/13fc625f-8183-40f8-8728-169464dd9ede)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/534d72e4-c79d-4da2-aa93-963bddb7c898)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/70662449-6867-484e-845e-07e897cbcf20)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/e98351e1-235f-4fc4-b8de-646327dba9e4)
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/8be146c4-a312-4a8e-afec-babf67ce89cb)
 
 
 
