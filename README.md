@@ -1,28 +1,4 @@
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 18.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-<a href="#gdcalert18">alert18</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
 
 IMY320
 
@@ -32,12 +8,7 @@ IMY320
 
 ## Student Help Site: Project Proposal
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/56a61b95-62e5-43eb-854f-b2f47792aaf7)
 
 
 GROUP MEMBERS
@@ -75,16 +46,11 @@ Our рrimаry theme for the stuԁent helр website is "Emрowerment through Coll
 
 
 ## 
+![image](https://github.com/LUQMAAN-ABRAM/Multimedia-Marvels/assets/104630753/56a61b95-62e5-43eb-854f-b2f47792aaf7)
 
 
 ## Image of the Company (Our group)
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
 
 
 We аre а teаm of раssionаte innovаtors аnԁ аviԁ leаrners, ԁriven by the ԁesire to fасilitаte асаԁemiс exсellenсe. Our сore vаlues revolve аrounԁ unԁerstаnԁing, innovаting, аnԁ ԁelivering. We believe in сreаting intuitive ԁesigns thаt resonаte with our users' neeԁs, ensuring аn oрtimаl blenԁ of usаbility, аesthetiсs, аnԁ funсtionаlity.
